@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Adds Select2 field type to Backform.",
   "main": "backform-select2.js",
+  "dependencies": {
+    "backform": ">= 0.2.0",
+    "select2": "^4.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

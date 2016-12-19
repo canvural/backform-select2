@@ -1,0 +1,25 @@
+{
+  "name": "backform-select2",
+  "version": "1.0.0",
+  "description": "Adds Select2 field type to Backform.",
+  "main": "backform-select2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvural/backform-select2.git"
+  },
+  "keywords": [
+    "backform",
+    "select2",
+    "backbone",
+    "form"
+  ],
+  "author": "Can Vural <can9119@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canvural/backform-select2/issues"
+  },
+  "homepage": "https://github.com/canvural/backform-select2#readme"
+}
